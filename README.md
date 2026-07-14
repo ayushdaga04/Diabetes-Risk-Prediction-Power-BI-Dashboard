@@ -23,3 +23,5 @@ Star schema: fact table (253,680 survey records) + Age, Income, and Education di
 DAX measures using CALCULATE / DIVIDE / ALL — diabetes rate, respondent counts, rate-vs-overall comparison
 Finding surfaced by the model: overall diabetes rate ~14%, dropping to ~8% in the highest income bracket — the income–health relationship is visible in two clicks
 File: dashboard/CDC_Diabetes_Dashboard.pbix — open with Power BI Desktop (free)
+<img width="868" height="476" alt="Screenshot 2026-07-14 at 4 11 21 PM" src="https://github.com/user-attachments/assets/48d1f5ea-cc7b-4b85-8241-0dcc3136e8d1" />
+
